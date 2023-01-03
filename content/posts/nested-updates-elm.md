@@ -8,7 +8,7 @@ date: 2022-01-18T14:34:37.000Z
 
 In [Elm](https://twitter.com/elmlang) it's hard to update nested records. Some people (including me) have complained about this.
 
-A few years ago, I wrote some code to solve this "problem". Looking back, I wish I had approached it differently. 🧵
+A few years ago, I wrote some code to solve this "problem". Looking back, I wish I had approached it differently.
 
 My clever solution was to write a shell script that let me write the "record-updater" function I wished I had, of the form:
 

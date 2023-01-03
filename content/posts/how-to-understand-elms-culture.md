@@ -8,7 +8,7 @@ date: 2022-01-14T13:43:42.000Z
 
 [Elm](https://twitter.com/elmlang) is easy to learn. But depending on your prior language experience, it can be hard to adapt to!
 
-Want a better grasp on how to make the most of Elm? These 5 videos can help bridge the gap: 🧵
+Want a better grasp on how to make the most of Elm? These 5 videos can help bridge the gap:
 
 ### 🙅‍♀️ Making Impossible States Impossible - Richard Feldman
 
