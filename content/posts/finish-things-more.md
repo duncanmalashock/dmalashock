@@ -20,10 +20,10 @@ I find a good way to give myself more energy in the midst of a long-running proj
 
 This could mean, in the midst of a long project at work, starting my day by taking an hour to fix a bug that's been bothering me and my team—simple and satisfying.
 
-My coworkers who work on open-source projects ([Matthew Griffith](https://twitter.com/mech_elephant) and [ryan 🌳](https://twitter.com/rhg_dev)) seem to use a similar technique.
+My coworkers who work on open-source projects ([Matthew Griffith](https://twitter.com/mech_elephant) and [@rhg_dev](https://twitter.com/rhg_dev)) seem to use a similar technique.
 
 They'll switch from work on a large project to building a small game, library, or experiment, rotating between projects to stay active and engaged.
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1481640104565248000) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1481640104565248000) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

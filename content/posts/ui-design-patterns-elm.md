@@ -10,13 +10,13 @@ In [Elm](https://twitter.com/elmlang), your UI elements don't need to be "compon
 
 So what should they be? Here are a number of common patterns for different requirements:
 
-1️⃣ Simple parameters
+### 1️⃣ Simple parameters
 
 `view : String -> (String -> msg) -> Html msg`
 
 Use this when view code varies in few ways, and all parameters are required.
 
-2️⃣ Config parameter
+### 2️⃣ Config parameter
 
 `view : Config msg -> Html msg`
 
@@ -25,21 +25,21 @@ Create a `Config` type and use this pattern when some parameters are optional, o
 More about the Config pattern:
 [https://sporto.github.io/elm-patterns/basic/builder-pattern.html](https://sporto.github.io/elm-patterns/basic/builder-pattern.html)
 
-3️⃣ Model, Msg, update
+### 3️⃣ Model, Msg, update
 
 `view : Model -> Html Msg`
 `update : Msg -> Model -> (Model, Cmd Msg)`
 
 Create a `Msg` type and use this pattern when there are too many parameters (data and `msg`s) to pass in.
 
-4️⃣ Returning ParentMsg
+### 4️⃣ Returning ParentMsg
 
 `view : Model -> Html Msg`
 `update : Msg -> Model -> (Model, Cmd Msg, Maybe ParentMsg)`
 
 Use this pattern when a view needs to send data to an `update` function above it in the hierarchy.
 
-☝️ Use the simplest pattern you can
+### ☝️ Use the simplest pattern you can
 
 It can be tempting to treat your view code as uniform "components".
 
@@ -52,4 +52,4 @@ Thanks to [Richard Feldman](https://twitter.com/rtfeldman) for his explanation o
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1487129193326465028) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1487129193326465028) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

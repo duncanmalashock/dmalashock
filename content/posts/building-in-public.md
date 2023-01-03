@@ -30,4 +30,4 @@ And it also acts as a resource for the future—my rubber-duck sessions will com
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1480548481261613062) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1480548481261613062) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

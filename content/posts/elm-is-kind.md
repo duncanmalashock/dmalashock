@@ -50,4 +50,4 @@ And it's designed to do all it can to make it as easy as it can be.
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1481263183872634883) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1481263183872634883) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

@@ -12,7 +12,7 @@ But I like [Elm](https://twitter.com/elmlang) for a lot of the same reasons I li
 
 Here's why they aren't so different:
 
-🥰 Happiness is a value
+### 🥰 Happiness is a value
 
 Elm is "a delightful language" in much the same way that Ruby is "optimized for programmer happiness".
 
@@ -20,19 +20,19 @@ Ruby makes developers happy with its natural and expressive syntax.
 
 Elm's clear and simple design makes understanding and refactoring programs easy.
 
-❤️ Kind leadership
+### ❤️ Kind leadership
 
 The Ruby community says "Matz is nice and so we are nice" to describe Matz, the creator of Ruby.
 
 I can't help but compare [Evan Czaplicki](https://twitter.com/evancz)'s similar qualities, expressed in his conference talks, the Elm guide, and even the friendly error messages from the compiler!
 
-🛤 Familiar conventions
+### 🛤 Familiar conventions
 
 The culture of "the Ruby Way", and "convention over configuration" helps Ruby devs communicate.
 
 Elm shares these values through "The Elm Architecture", and by discouraging complicated solutions through the language's design.
 
-🎨 Design culture
+### 🎨 Design culture
 
 Ruby and Elm devs both want to make tools that are useful and beautiful.
 
@@ -40,7 +40,7 @@ Rubyists craft expressive DSLs that read naturally.
 
 Elm devs design modules that are simple, clear, and unmistakable in their intent.
 
-🪨 Reliability
+### 🪨 Reliability
 
 Ruby and Elm devs both want open-source code to be reliable—they just go about it differently.
 
@@ -54,4 +54,4 @@ Interested in Elm? Take a look at my thread of resources for getting started:
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1489982107518652421) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1489982107518652421) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

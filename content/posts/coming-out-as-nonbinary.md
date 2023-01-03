@@ -1,7 +1,7 @@
 ---
 title: "Coming out as nonbinary"
 description: ""
-tags: [ gender, queerness ]
+tags: [ gender ]
 
 date: 2021-10-11T15:42:01.000Z
 ---

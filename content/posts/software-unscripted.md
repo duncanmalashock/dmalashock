@@ -12,25 +12,25 @@ Really enjoyed the latest episode of [Software Unscripted](https://twitter.com/s
 
 Here are my takeaways:
 
-❓ What is functional programming?
+### ❓ What is functional programming?
 
 Definitions of FP vary! Some older definitions require point-free style. Others focus on the broader use of pure functions.
 
 Anjana helpfully defines a goal of FP as moving side effects to the boundary of your program.
 
-🔧 FP is one tool, not the only tool
+### 🔧 FP is one tool, not the only tool
 
 FP has its enthusiasts in the programming community.
 
 But you don't have to be dogmatic about FP as a "superior" way of doing programming. Not all code needs to be converted to functional style in all languages in order to be more effective.
 
-🧑‍🏫 You don't have to be an expert to teach FP
+### 🧑‍🏫 You don't have to be an expert to teach FP
 
 Anjana describes a popular Unconference talk she gave in 2016 on FP as a beginner, that resonated with a huge number of people (2.3 million views on YouTube).
 
 So people can be very receptive to relatable lessons from a beginner!
 
-🧠 Question teaching FP "foundations"
+### 🧠 Question teaching FP "foundations"
 
 Academic concepts like monads and the lambda calculus don't necessarily help students grasp FP.
 
@@ -44,4 +44,4 @@ Thanks [Software Unscripted](https://twitter.com/sw_unscripted) for a great epis
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1486711479055257612) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1486711479055257612) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

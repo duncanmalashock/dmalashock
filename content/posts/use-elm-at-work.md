@@ -12,31 +12,31 @@ But most companies need to be convinced of why they should take a chance on Elm.
 
 It can be done! Here's how:
 
-🚫 Avoid abstract arguments
+### 🚫 Avoid abstract arguments
 
 It can be tempting to try to convince your team to use Elm when its merits seem clear to you.
 
 But this will not help others to see Elm as a benefit more than a cost—and no argument you make will be as convincing as proof.
 
-😱 Identify a problem area in your application
+### 😱 Identify a problem area in your application
 
 Does your project have any bug-ridden features that constantly divert resources and frustrate your team?
 
 These are great opportunities to demonstrate—not argue—Elm's reliability.
 
-🔬 Run an experiment
+### 🔬 Run an experiment
 
 Attempt to use Elm to solve one of the problem areas you identified.
 
 Choose something that's small in scope, and easy to revert. This way, the risk will be as small as it can be.
 
-👄 Teach others
+### 👄 Teach others
 
 Has your experiment successfully solved your company's problem? Now is your opportunity to explain Elm's technical benefits.
 
 Show others on your team what you did, and make yourself available as an educational resource.
 
-🔁 Repeat
+### 🔁 Repeat
 
 Having proved Elm's benefits, identify more problem areas and run similar experiments.
 
@@ -47,4 +47,4 @@ This summary comes from [Evan Czaplicki](https://twitter.com/evancz)'s retelling
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1485289926941986816) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1485289926941986816) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

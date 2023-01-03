@@ -10,7 +10,7 @@ Implementing a dropdown menu in [Elm](https://twitter.com/elmlang) is an unexpec
 
 Here are a few challenges you may run into:
 
-1️⃣ Closing on click-away
+### 1️⃣ Closing on click-away
 
 One of the first issues you'll run into is how to close the menu in response to a click elsewhere on the page.
 
@@ -20,7 +20,7 @@ Global click handlers can be attached to the application as subscriptions.
 
 Since choosing a menu option should close the menu, a global click subscriptions can produce a separate Msg that closes the menu.
 
-2️⃣ Allowing clicks inside the menu
+### 2️⃣ Allowing clicks inside the menu
 
 If your dropdown menu is designed to allow further click interactions inside the menu pane, the previous solution won't work.
 
@@ -30,7 +30,7 @@ This can be done in pure Elm by decoding the click event to find HTML attributes
 
 It can also be done in JS with a web component or a port.
 
-3️⃣ Making the menu visible above scrolling content
+### 3️⃣ Making the menu visible above scrolling content
 
 In CSS, scrolling containers have their overflow clipped. In cases where your dropdown is in a scrolling container, your menu may be partially hidden.
 
@@ -40,4 +40,4 @@ A solution like this needs to query for the intended size and positioning of the
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1493224595863842824) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1493224595863842824) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

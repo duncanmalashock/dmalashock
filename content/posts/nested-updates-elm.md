@@ -42,4 +42,4 @@ The design of the language encourages you to write in a simple and sensible wayâ
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1483447741233696769) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1483447741233696769) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

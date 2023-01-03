@@ -57,12 +57,12 @@ copyright = "© {year} Duncan Malashock"
 # Controls the navigation
 [[menu.main]]
   identifier = "about"
-  name = "About"
+  name = "✌️"
   title = "About"
   url = "/"
 
 [[menu.main]]
-  identifier = "blog"
+  identifier = "posts"
   name = "Blog"
   title = "Blog"
   url = "/posts"

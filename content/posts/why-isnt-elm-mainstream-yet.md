@@ -16,13 +16,13 @@ In his talk ([https://www.youtube.com/watch?v=oYk8CKH7OhE](https://www.youtube.c
 
 The two I want to focus on are Communication and Tooling.
 
-🗣 Communication
+### 🗣 Communication
 
 Evan asked the audience to imagine themselves as a developer comparing the competing sales pitches of a set of language tools.
 
 He demonstrated that communication with an audience needs to be centered on the needs of that audience, not the features of the tool.
 
-🔧 Tooling
+### 🔧 Tooling
 
 Evan emphasized the importance of leveraging Elm's advantages to create "unique and delightful experiences".
 
@@ -32,7 +32,7 @@ I think Elm itself has done an extremely good job at achieving these design goal
 
 But I often wonder how the tooling and communication efforts in the Elm community could appeal better to JavaScript developers and their problems.
 
-This is why I'm excited about [ryan 🌳](https://twitter.com/rhg_dev)'s Elm Land framework project. He seems to be asking questions like:
+This is why I'm excited about [@rhg_dev](https://twitter.com/rhg_dev)'s [Elm Land](https://elm.land) framework project. He seems to be asking questions like:
 
 - What obstacles do JS devs meet when they try Elm?
 - What is unfamiliar or hard to do?
@@ -41,4 +41,4 @@ This is why I'm excited about [ryan 🌳](https://twitter.com/rhg_dev)'s Elm Lan
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1526569183940681737) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1526569183940681737) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>

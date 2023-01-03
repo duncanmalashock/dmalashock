@@ -51,4 +51,4 @@ Watch Joël's talk: "Inverting a Binary Tree with 1 Line of Elm" at the Elm Onli
 
 ---
 
-This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1487464589671477251) as part of [Ship 30 for 30](https://www.ship30for30.com/).
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1487464589671477251) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>
