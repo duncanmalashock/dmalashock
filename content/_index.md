@@ -1,6 +1,7 @@
 ---
 heading: "Hi! 👋 My name’s Duncan Malashock."
 subheading: "I’m a software engineer, musician, and squooshy berry. 🍒"
+portrait: "portrait.jpg"
 ---
 
 Hi! I'm Duncan Malashock. I write software and music, and I'm currently working full-time as an Engineering Manager at Vendr.
