@@ -1,7 +1,7 @@
 ---
 title: "Elm and good design"
 description: ""
-tags: [ elm, software ]
+tags: [ elm, software, design ]
 
 date: 2022-01-15T15:26:32.000Z
 ---

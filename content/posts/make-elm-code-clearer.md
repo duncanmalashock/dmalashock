@@ -1,7 +1,7 @@
 ---
 title: "6 ways to make your Elm code clearer"
 description: ""
-tags: [ software ]
+tags: [ elm, software ]
 
 date: 2022-01-16T16:27:42.000Z
 ---

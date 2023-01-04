@@ -1,7 +1,7 @@
 ---
 title: "Test your code on people"
 description: ""
-tags: [ elm, software ]
+tags: [ software ]
 
 date: 2022-01-26T13:36:30.000Z
 ---

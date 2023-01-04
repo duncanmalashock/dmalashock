@@ -1,7 +1,7 @@
 ---
 title: "Building in public"
 description: "Fostering your remote engineering culture with rubber ducking"
-tags: [ elm, software ]
+tags: [ software, teams ]
 
 date: 2022-01-10T14:33:59.000Z
 ---

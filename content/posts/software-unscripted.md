@@ -1,7 +1,7 @@
 ---
 title: "Software Unscripted with Anjana Vakil"
 description: ""
-tags: [ elm, software, summary ]
+tags: [ software, summary ]
 
 date: 2022-01-27T14:43:33.000Z
 ---

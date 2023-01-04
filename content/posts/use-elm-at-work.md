@@ -1,7 +1,7 @@
 ---
 title: "Elm in summary: \"How to use Elm at work\""
 description: ""
-tags: [ elm, software, summary ]
+tags: [ elm, software, summary, teams ]
 
 date: 2022-01-23T16:34:48.000Z
 ---
