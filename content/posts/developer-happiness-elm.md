@@ -8,9 +8,7 @@ date: 2022-02-06T13:23:33.000Z
 
 Interested in [Elm](https://twitter.com/elmlang) coming from a dynamic language?
 
-You could hardly ask for a better introduction than Kevin Yank ([Kevin Yank](https://twitter.com/sentience)) gives in his video "Developer Happiness on the Front End with Elm":
-
-[https://www.youtube.com/watch?v=kuOCx0QeQ5c](https://www.youtube.com/watch?v=kuOCx0QeQ5c)
+You could hardly ask for a better introduction than [Kevin Yank](https://twitter.com/sentience) gives in his video ["Developer Happiness on the Front End with Elm"](https://www.youtube.com/watch?v=kuOCx0QeQ5c):
 
 Here's my synopsis:
 
