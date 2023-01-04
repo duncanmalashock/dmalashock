@@ -6,7 +6,7 @@ tags: [ software ]
 date: 2022-01-26T13:36:30.000Z
 ---
 
-Is your latest module well-designed and nice to use? How do you know?
+Is your latest module "well-designed" and "nice to use"? How do you know unless you've tested it?
 
 Don't take your own word for it! Test your code on other programmers who would use it.
 
