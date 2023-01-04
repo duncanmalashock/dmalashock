@@ -8,9 +8,7 @@ date: 2022-01-31T14:31:49.000Z
 
 Functional programmers don't need to know terms from category theory.
 
-Understanding terms like "functor", "applicative", and "monad" doesn't help you solve problems.
-
-What does help is understanding the functions they involve.
+Understanding terms like "functor", "applicative", and "monad" doesn't help you solve problems. What does help is understanding the functions they involve.
 
 Here's what I mean:
 
@@ -30,14 +28,14 @@ Here are a few you might consider:
 
 Examples:
 
-- `[Maybe.map](http://Maybe.map)` applies a function to `Just` values of a `Maybe`
-- `[Html.map](http://Html.map)` lets you transform the `msg` type produced by `Html msg`
+- `Maybe.map` applies a function to `Just` values of a `Maybe`
+- `Html.map` lets you transform the `msg` type produced by `Html msg`
 
 ### 🤔 When to write `map`?
 
 Will `MyType` be parameterized with types that commonly need functions applied to them, like `msg`?
 
-If so, consider writing `[MyType.map](http://MyType.map)`.
+If so, consider writing `MyType.map`.
 
 ## 2️⃣ andMap
 
