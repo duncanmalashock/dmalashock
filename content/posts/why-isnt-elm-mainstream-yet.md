@@ -39,7 +39,7 @@ This is why I'm excited about [@rhg_dev](https://twitter.com/rhg_dev)'s [Elm Lan
 - How can we make delightful experiences?
 - How can we make Elm easy to try?
 
-I'm excited to see how his project evolves to address these questions! Check it out at [elm.land](elm.land).
+I'm excited to see how his project evolves to address these questions! Check it out at [elm.land](https://elm.land).
 
 ---
 
