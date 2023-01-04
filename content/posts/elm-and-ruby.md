@@ -8,7 +8,7 @@ date: 2022-02-05T15:19:51.000Z
 
 Developers seem to like arguing about statically typed versus dynamically typed languages.
 
-But I like [Elm](https://twitter.com/elmlang) for a lot of the same reasons I like [Ruby Language](https://twitter.com/rubylangorg).
+But I like [Elm](https://twitter.com/elmlang) for a lot of the same reasons I like [Ruby](https://twitter.com/rubylangorg).
 
 Here's why they aren't so different:
 
