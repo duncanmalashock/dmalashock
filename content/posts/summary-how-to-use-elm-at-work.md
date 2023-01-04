@@ -1,5 +1,5 @@
 ---
-title: "Elm in summary: \"How to use Elm at work\""
+title: "Summary: \"How to use Elm at work\""
 description: ""
 tags: [ elm, software, summary, teams ]
 

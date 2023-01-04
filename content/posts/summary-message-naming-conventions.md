@@ -1,5 +1,5 @@
 ---
-title: "Elm in summary: \"Message Naming Conventions\""
+title: "Summary: \"Message Naming Conventions\""
 description: ""
 tags: [ elm, software, names, summary ]
 
