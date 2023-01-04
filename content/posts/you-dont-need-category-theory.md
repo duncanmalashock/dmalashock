@@ -12,7 +12,7 @@ Understanding terms like "functor", "applicative", and "monad" doesn't help you 
 
 What does help is understanding the functions they involve.
 
-Here's what I mean 👇
+Here's what I mean:
 
 Let's say you're implementing a type:
 

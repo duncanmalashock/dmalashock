@@ -12,7 +12,7 @@ You could hardly ask for a better introduction than Kevin Yank ([Kevin Yank](htt
 
 [https://www.youtube.com/watch?v=kuOCx0QeQ5c](https://www.youtube.com/watch?v=kuOCx0QeQ5c)
 
-Here's my synopsis: 👇
+Here's my synopsis:
 
 ### 🤔 Reasons for choosing Elm
 
