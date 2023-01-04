@@ -12,7 +12,7 @@ A few years later, [Evan Czaplicki](https://twitter.com/evancz) encouraged the E
 
 After 10 years, Elm's rate of adoption is still quite low. Why is this?
 
-In his talk ([https://www.youtube.com/watch?v=oYk8CKH7OhE](https://www.youtube.com/watch?v=oYk8CKH7OhE)), Evan expanded on several areas of his proposed strategy for promoting adoption, that he called "User-focused Design in Elm".
+In his talk (["Let's be mainstream!"](https://youtu.be/oYk8CKH7OhE?t=800)), Evan expanded on several areas of his proposed strategy for promoting adoption, that he called "User-focused Design in Elm".
 
 The two I want to focus on are Communication and Tooling.
 
@@ -38,6 +38,8 @@ This is why I'm excited about [@rhg_dev](https://twitter.com/rhg_dev)'s [Elm Lan
 - What is unfamiliar or hard to do?
 - How can we make delightful experiences?
 - How can we make Elm easy to try?
+
+I'm excited to see how his project evolves to address these questions! Check it out at [elm.land](elm.land).
 
 ---
 
