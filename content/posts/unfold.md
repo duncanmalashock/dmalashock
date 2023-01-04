@@ -20,7 +20,7 @@ Where `fold` takes:
 And returns:
 - A new data type with all the list values reduced into it.
 
-foldl : (a -> b -> b) -> b -> List a -> b
+`foldl : (a -> b -> b) -> b -> List a -> b`
 
 `unfold` does the opposite.
 
@@ -31,7 +31,7 @@ It takes:
 And returns:
 - A list of values
 
-unfold : (a -> Maybe (b, a)) -> a -> List b
+`unfold : (a -> Maybe (b, a)) -> a -> List b`
 
 This can be used for generating a list of values from a data source.
 
