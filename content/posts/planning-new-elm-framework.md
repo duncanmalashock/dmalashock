@@ -52,8 +52,8 @@ In about an hour of "guide-driven" testing and development, Ryan had a working `
 
 I had a lot of fun, and I'm looking forward to what Ryan comes up with next!
 
-You can watch our pairing session on Twitch (VODs are online for two weeks), and check out his other streams at [twitch.tv/ryan_the_rhg](https://www.twitch.tv/ryan_the_rhg)
+You can watch our pairing session on Twitch (VODs are online for two weeks), and check out his other streams at [twitch.tv/ryan_the_nerd](https://www.twitch.tv/ryan_the_nerd)
 
 ---
 
-<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1522906945530826752) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1522906945530826752).</small>

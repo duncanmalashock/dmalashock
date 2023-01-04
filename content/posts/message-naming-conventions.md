@@ -80,4 +80,4 @@ Thanks [@noahzgordon](https://twitter.com/noahzgordon) for this great talk! If y
 
 ---
 
-<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1525866716164767744) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1525866716164767744).</small>

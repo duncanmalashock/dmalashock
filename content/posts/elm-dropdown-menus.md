@@ -40,4 +40,4 @@ A solution like this needs to query for the intended size and positioning of the
 
 ---
 
-<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1493224595863842824) as part of [Ship 30 for 30](https://www.ship30for30.com/).</small>
+<small>This post was originally a [Twitter thread](https://twitter.com/DuncanMalashock/status/1493224595863842824).</small>
