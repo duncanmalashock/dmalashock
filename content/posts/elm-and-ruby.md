@@ -1,7 +1,7 @@
 ---
 title: "Elm and Ruby aren't so different"
 description: ""
-tags: [ elm, software ]
+tags: [ elm, ruby, software ]
 
 date: 2022-02-05T15:19:51.000Z
 ---
