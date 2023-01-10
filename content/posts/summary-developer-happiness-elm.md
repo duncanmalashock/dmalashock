@@ -1,7 +1,7 @@
 ---
 title: "Summary: \"Developer Happiness on the Front End with Elm\""
 description: ""
-tags: [ elm, software, summary ]
+tags: [ elm, software, ruby, summary ]
 
 date: 2022-02-06T13:23:33.000Z
 ---
