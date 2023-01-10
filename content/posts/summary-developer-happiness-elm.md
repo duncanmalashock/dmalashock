@@ -51,7 +51,8 @@ And compared to other languages, Elm:
 Thanks [Kevin Yank](https://twitter.com/sentience) for a clear, well-structured and educational video on Elm! ❤️
 
 📺 Watch it here:
-[https://www.youtube.com/watch?v=kuOCx0QeQ5c](https://www.youtube.com/watch?v=kuOCx0QeQ5c)
+
+{{< youtube kuOCx0QeQ5c >}}
 
 ---
 

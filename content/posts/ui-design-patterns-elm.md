@@ -48,7 +48,8 @@ But there's no need to use 4️⃣ for everything—in many cases it would be to
 Remember: there is no such thing as "parent-child communication" with pure functions.
 
 Thanks to [Richard Feldman](https://twitter.com/rtfeldman) for his explanation of these concepts in his talk "Scaling Elm Apps":
-[https://www.youtube.com/watch?v=DoA4Txr4GUs](https://www.youtube.com/watch?v=DoA4Txr4GUs)
+
+{{< youtube DoA4Txr4GUs >}}
 
 ---
 

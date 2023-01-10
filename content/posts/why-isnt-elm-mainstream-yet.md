@@ -28,6 +28,8 @@ Evan emphasized the importance of leveraging Elm's advantages to create "unique 
 
 By providing experiences like the time-travel debugger and friendly error messages, Elm could appeal to its audience and be adopted as a mainstream language.
 
+---
+
 I think Elm itself has done an extremely good job at achieving these design goals.
 
 But I often wonder how the tooling and communication efforts in the Elm community could appeal better to JavaScript developers and their problems.

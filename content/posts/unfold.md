@@ -47,7 +47,8 @@ Thanks to [Joël Quenneville](https://twitter.com/joelquen) for the clear explan
 Curious to learn more? 
 
 Watch Joël's talk: "Inverting a Binary Tree with 1 Line of Elm" at the Elm Online Meetup:
-[https://www.youtube.com/watch?v=dSMB3rsufC8](https://www.youtube.com/watch?v=dSMB3rsufC8)
+
+{{< youtube dSMB3rsufC8 >}}
 
 ---
 

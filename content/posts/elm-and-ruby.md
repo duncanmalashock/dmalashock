@@ -48,9 +48,7 @@ Ruby devs rely on test coverage and TDD to ensure their work is reliable.
 
 Elm devs use the precision of the type system to make certain errors impossible to produce.
 
-Interested in Elm? Take a look at my thread of resources for getting started:
-
-[https://twitter.com/DuncanMalashock/status/1484935495599767553](https://twitter.com/DuncanMalashock/status/1484935495599767553)
+Interested in Elm? Take a look at [these resources]({{< ref "8-ways-learn-elm" >}}) for getting started:
 
 ---
 

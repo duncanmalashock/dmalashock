@@ -64,8 +64,7 @@ An excellent compact reference, [Sebastian Porto](https://twitter.com/sebasporto
 
 ### Conference talks
 
-When it comes to learning Elm's culture and mindset, conference talks are great resources. My recent thread includes five insightful talks that helped me foster good habits:
-[https://twitter.com/DuncanMalashock/status/1481985375883210756](https://twitter.com/DuncanMalashock/status/1481985375883210756)
+When it comes to learning Elm's culture and mindset, conference talks are great resources. My [recent post]({{< ref "how-to-understand-elms-culture" >}}) includes five insightful talks that helped me foster good habits.
 
 ---
 

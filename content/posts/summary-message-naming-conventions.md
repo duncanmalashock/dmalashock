@@ -76,7 +76,9 @@ When following this convention, your Msgs will be named like this:
 - UserClickedSignInButton
 - ServerRespondedWithAccountData
 
-Thanks [@noahzgordon](https://twitter.com/noahzgordon) for this great talk! If you haven't seen it before or would like to revisit it, it's on YouTube at [https://www.youtube.com/watch?v=w6OVDBqergc](https://www.youtube.com/watch?v=w6OVDBqergc)
+Thanks [@noahzgordon](https://twitter.com/noahzgordon) for this great talk! If you haven't seen it before or would like to revisit it, it's on YouTube:
+
+{{< youtube w6OVDBqergc >}}
 
 ---
 

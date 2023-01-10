@@ -6,7 +6,7 @@ tags: [ software, teams ]
 date: 2022-01-10T14:33:59.000Z
 ---
 
-"Rubber ducking" ([https://en.wikipedia.org/wiki/Rubber_duck_debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)) isn't just for solving problems by yourself—it can help your remote engineering culture too. 
+["Rubber ducking"](https://en.wikipedia.org/wiki/Rubber_duck_debugging) isn't just for solving problems by yourself—it can help your remote engineering culture too. 
 
 Here's how:
 
