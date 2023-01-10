@@ -38,7 +38,9 @@ Teaching these ideas as a rite of passage is not necessarily effective.
 
 Anjana starts by helping students identify pure vs. impure functions.
 
-🎧 Listen to the podcast at [https://open.spotify.com/episode/0RhRifMc0XzigROlXRQPDM](https://open.spotify.com/episode/0RhRifMc0XzigROlXRQPDM)
+🎧 Listen to the podcast here:
+
+<iframe style="border-radius:12px; margin-top: 1em;" src="https://open.spotify.com/embed/episode/0RhRifMc0XzigROlXRQPDM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Thanks [Software Unscripted](https://twitter.com/sw_unscripted) for a great episode!
 
