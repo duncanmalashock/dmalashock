@@ -1,7 +1,7 @@
 ---
 heading: "Hi! 👋 My name’s Duncan Malashock."
 subheading: "I’m a software engineer and musician."
-portrait: "portrait.jpg"
+portrait: "profile.png"
 ---
 
 Hi! I'm Duncan Malashock. I write software and music.
